@@ -34,7 +34,7 @@
 </style>
 </head>
 <body>
-    <h3>填空活用版</h3>
+    <h3>填空活用版(new)</h3>
     <form name="main" onsubmit="return false">
         <input type="text" name="box" class="box" id="box">
         <input type="submit" value="送出" onclick="go()">
